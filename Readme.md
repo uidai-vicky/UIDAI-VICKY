@@ -9,7 +9,7 @@
 ---
 
 ### 🧭 About Me
-- 🎓 FB.Tech (CSE - AIML) from Techno Main Salt Lake, Kolkata
+- 🎓 B.Tech (CSE - AIML) from Techno Main Salt Lake, Kolkata (2021-2025) 
 - 💡 Passionate about building intelligent systems & cross-platform apps  
 - 🌍 Always exploring **ML, Full Stack Development, and iOS ecosystems**  
 - ⚡ Love clean UI, automation, and data-driven solutions  
